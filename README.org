@@ -216,6 +216,26 @@ that explicit).
   - projects
     - swiper: https://github.com/abo-abo/swiper
     - hydra: https://github.com/abo-abo/hydra
+- Radon Rosborough (Radian LLC)
+  - github: https://github.com/radian-software
+  - website: https://intuitiveexplanations.com/
+  - website: https://radian.codes/
+  - donate
+    - github: https://github.com/sponsors/radian-software
+    - patreon: https://patreon.com/radiansoftware
+    - kofi: https://ko-fi.com/radiansoftware
+    - liberapay: https://liberapay.com/radian-software
+    - opencollective: https://opencollective.com/radian-software
+    - buymeacoffee: https://buymeacoffee.com/radiansoftware
+    - paypal: https://www.paypal.com/donate/?hosted_button_id=SYF48KFJ95FPA
+  - projects
+    - straight.el: https://github.com/radian-software/straight.el
+    - el-patch: https://github.com/radian-software/el-patch
+    - prescient.el: https://github.com/radian-software/prescient.el
+    - blackout: https://github.com/radian-software/blackout
+    - apheleia: https://github.com/radian-software/apheleia
+    - selectrum: https://github.com/radian-software/selectrum
+    - ctrlf: https://github.com/radian-software/ctrlf
 - Steve Purcell
   - github: https://github.com/purcell
   - twitter: https://twitter.com/sanityinc
